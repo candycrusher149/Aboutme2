@@ -84,7 +84,7 @@ p{
     background-color: greenyellow;
 }
 html{
- scroll-behavior: smooth;
+    scroll-behaior: smooth;
 }
 a{
     text-decoration: none;
@@ -101,4 +101,8 @@ a{
     text-decoration: none;
     display: inline-block; 
     font-size: 16px; } a { text-decoration:none; }
+}
+
+img:hover{
+  height: 30%;
 }
